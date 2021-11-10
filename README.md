@@ -1,2 +1,2 @@
 # TwitterAPI2
-Testing Twitter API2 using Rest Assured JAVA
+Testing Twitter API version 2 using Rest Assured JAVA
